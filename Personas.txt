@@ -1,0 +1,15 @@
+12 1.5 100 F Guatemala
+13 0.56 110 F Guatemala
+12 1.5 100 F Guatemala
+25 1.56 150 M Guatemala
+40 1.8 200 M Zacapa
+12 2 300 M Zacapa
+12 1.5 200 F Zacapa
+50 1.5 110 M Zacapa
+60 1.6 220 M Guatemala
+12 1.6 100 M Guatemala
+40 1.6 90 F Zacapa
+15 1.59 300 M HueHuetenango
+56 1.5 200 M Quiche
+90 1.5 300 M QUICHE
+
